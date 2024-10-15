@@ -5,7 +5,12 @@ contributor:
     agent_name: Coussens, Penryhn W.
     gutenberg_agent_id: '57548'
     url: http://www.gutenberg.org/2009/agents/57548
+covers:
+- cover_type: archival
+  image_path: 74556-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74556#One-thousand-books-for-children
 gutenberg_issued: '2024-10-11'
 gutenberg_type: Text
 identifiers:
